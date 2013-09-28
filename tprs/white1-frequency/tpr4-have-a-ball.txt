@@ -2,7 +2,7 @@ TPR Story 4
 
 Laugh		Scream		House		Church		Bank 	
 What		Is		This		That		  Number 	
-Line		Straight	Crooked	      Add		    Divide
+Line		Straight	Crooked	        Add		    Divide
 Count		Write		Are		These		  Those	
 Above		Below		Forward	   	Toward
 
