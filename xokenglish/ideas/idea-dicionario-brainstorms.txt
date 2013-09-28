@@ -1,0 +1,39 @@
+Dicionário
+    Tipos
+	Online
+	Electronic
+	Apps
+    Bilingual
+	Português - Inglês
+	Inglês - Português
+    Monolingual
+	Inglês - Inglês    
+    Learner Dictionary
+    Spelling Dictionary
+    Beginner Dictionary
+    Advanced Learner Dictionary
+    Phonetic Dictionary
+    Rhyming Dictionary
+    Slang Dictionary
+    Phrasal Verb Dictionary
+    Reverse Dictionary
+    Visual Dictionary
+    Translation Dictionary
+    Specialized Dictionary
+    Pronunciation Dictionary (howjsay)
+    Encyclopediac Dictionary
+    Technical Dictionary
+    Defining Dictionary
+    Word Formation Dictionary
+    Homonyms
+    Paronyms
+    Synonyms
+    Antonyms
+    Ideographical
+    Collocation
+    Phraseological Dictionary
+    Proverbs Dictionary
+    Idioms Dictionary
+    Neologism Dictonary
+    Grammatical Dictionary
+    Abbreviation/Acronym Dictionary
