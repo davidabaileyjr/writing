@@ -1,10 +1,10 @@
 TPR Story 4
 
-Laugh		Scream		House		Church		Bank 	
-What		Is		This		That		Number 	
-Line		Straight	Crooked	Add		Divide
-Count		Write		Are		These		Those	
-Above		Below		Forward	Backward	Toward
+Laugh		Scream		House		  Church		Bank 	
+What		Is		    This		  That		  Number 	
+Line		Straight	Crooked	  Add		    Divide
+Count		Write		  Are		    These		  Those	
+Above		Below		  Forward	  Backward	Toward
 
 ///Short 
 
