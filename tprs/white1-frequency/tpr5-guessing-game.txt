@@ -1,0 +1,7 @@
+Alphabet		Letter		Name			Word			Spell 	
+Find			Shake			First			Last			Full	
+Side			Left			Right			Here			There	
+Play			Game			Guess			Complete		All	
+Which			Before		After			Next			A - An
+
+There is a man. His name is Joel. He likes to gamble. He goes to the fair. He sees a some gambling games. He is very happy. He wants to play, but his wife won't let him. She is afraid he will lose too much money. He tell her that he is going to buy some hot dogs. Then he goes off and plays a game. First he tries to guess which cup the beans are under. First he guesses that they are under the cup on the left. Then he guesses that they are under the cup on the right. But he never guesses correctly. He keeps playing and guessing. He loses $500 dollars. Then he plays an alphabet game where he has to guess the letters of the alpahbet for a word. He guesses all the letters except for the first and the last. He loses another $500. He plays a game here. He plays another game there. But he just keeps losing money. He had $5000 before the game. But he only has $5 after losing the games. His wife doesn't know where he is. She looks for him. When she finds him, he smiles and buys her a hot dog and coke with his last $5.00
