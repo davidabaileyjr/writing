@@ -1,0 +1,80 @@
+There are some amazing apps for productivity, writers, and teachers...but they are all scattered around. Each one trying to force you into their way of doing things...disconnected from all the others. Wouldn't it be great to have a single connected system?
+
+I really want something that can do everything I want...in one place. I've been thinking about creating something that will do this. So, here's what my perfect software writing, teaching, and productivity software.
+
+### Productivity
+
+This is the first part of the software focusing on productivity which would be creating targeted to-do lists, creating postive habits, managing larger projects, and effective time management tools. 
+
+1. To-do List - It would have a place to log-in and write down the things that I need to do/write/prepare for - like braindump in simpleology. So, the software would sadd brainstorm ideas, show focus list of things to do now, lockdown ideas for later show or hide [with date to show up for later review], schedule tasks in calendar. Also, a handy 'dreamcatcher' similar to simpleology...add things I'm doing now...or things I need to do later. It would also allow them to evaluate their work and observe things to add or eliminate.
+2. Habit Development - This would allow users to share items they've checked off their list with the general public like on List.do. That way they hold themselves accountable to new habits they are creating. They could form groups...that way they can exchange ideas with like-minded individuals. User can choose a series of habits to focus on and keep track of when they do it. Be able to manually insert times and dates as needed. 
+3. Project Management 
+	* Personal Projects - This would go down the lines of GTD...where I can organize my to-do items around a larger long-term project. Simpleology is nice...but I usually have more than one thing going on at once. i.e. work, personal, guitar, study. Even at work, I have several blogs, classes to prepare for, etc. So, even though it's nice to keep things simple and focus on one major project...I still need away to organize all the other stuff on my plate. This could be done with tags maybe? The use of time tracking and Gantt style charts would be really nice.  
+	* Team Projects - This would be more like regular project management software...kind of down the lines of Basecamp...with a nice Gantt overview and breakdown. This is where I could delegate work to other writers/teachers/programmers/etc. Even having the ability to track their time and work in the system with an option to payout as soon as they check off the work and it's approved. Very important to be able to email/sms them directly from the backend as tasks are assigned. Writing tools should be collaborative for ease of teamwork.  
+4. Time Management - This area would include timers for working online [countdown timers, pomodoro timers, stopwatches, etc]...as well as a wordcounter to show productivity. Having a writing mode and a clear editing mode to show what phase this project is in. Also having graphs, showing how many words per minute like on 750words would be great...along with text analyzers. These timers would be great if they could be browser-based, desktop-based, and even mobile. Basically work anywhere. 
+
+### Brainstrorming, Researching, and Writing
+
+Now, let's focus on the actual writing part of the project. This would involve the core part of what I need. Once I've got my to-do list...and know what to write...this is where I crack my knuckles and get down to brass tacks. 
+
+[This would have both a online and offline version of the app. And it would focus on Markdown writing for projects.] 
+
+1. Writing Screen - Just start putting thoughts down on paper. A full-screen, no-distraction writing zone with a count-down timer/stopwatch and word tracker. Just let the subconcious ideas bottled up come out and flow down onto the screen. 
+2. Editing Mode - New screen with spellchecker/thesaurus...and easy access to online research tools like writemonkey. 
+3. A brainstorm list - a place to write down lists of items that can easily be flipped into a mindmap like text2mindmap.com. A place to get ideas rolling around in my head down onto the screen and organized. 
+4. Research - This area would have a nice search function to sites I could add/recommended [wikipedia, etc]. This would have a nice Evernote style function for saving the main points...as well as nice footnote converter like Zotero. 
+5. A backend repository to store notes - this is where I could store different ideas...without actually being distracted by it on my writing screen. Maybe even tabs if I wanted more than one section. 
+6. Tips & Suggestions - It would be nice to have checklists for certain types of writing activities. i.e. novels, reports, articles templates, etc. With suggestions for each of the steps involved...right in one place so I don't have to go looking for it. 
+7. Offline App w/Push - The actual writing part itself could be done offline in an app like WriteMonkey...but easily pushed into the CMS in a Githubish/Penflipish style of organizing content based on saving in a folder and making commits. User could choose to make the file available for collaboration to public or group if desierd for collaboration. It would be great if these could even be scheduled to go out at a specific time. 
+8. Online App - The files could easily be opened by user with permission in a DraftIn like interface to be worked on in the online editor. 
+9. Published - When ready the file could be published on current CMS or pushed to another. This would be handy for pushing posts to guest blogs/social sites and keeping track of where your articles are. Handy for backlinking and recalling where you posted things previously. Have an automatic link tracking device to tell you when it was taken down. 
+10. Format - Depending to the type of writing, it could be shared in different formats. Mediumish for persoanl blog posts, Protagonize for stories, squidooish for info. Author could keep it private, only visible to a group, viewable to the public, or even make it wikiable so others can collaborate, edit, and add to it.    
+
+###LMS - Student & Teacher Social Network with Courses
+
+This would also be a great piece of software for writing productivity alone. But since a lot of my writing is geared towards English students...why not go ahead and make it awesome for creating lesson plans and running a course. This would be in an LMS styled format to share courses...maybe even add in an ecommerce system to sell them.  
+
+This would be something along the lines of Udemy...but allowing teachers to build of other teachers products. i.e. I write a story. Another teacher could create a powerpoint from it. And another a video off that. Whoever creates something from it and adds to it, can sell it...but they have to share-a-like. Caveat is they have to create something useable and get permission from the group. 
+
+1. Edmodoish styled...let students and teachers create their own lessons, materials, and activities. Allow developers to create apps. 
+	* Tutorials - How to styled lessons that break things down step by step for others. 
+	* Courses - Allow teachers to put material together for the students in an organized fashion. 
+2. Bookmarks - Using the research function in the writing section...teachers can bookmark resources to share with their students. Like the extracurricular books that students are required to read in a college course. Or it could just be as simple as pointing them to online videos, worksheets, quizzes, etc. 
+2. Activities - This would be an offline/online activity creator like Storyline or Studio from Articulate [I think]. Creating lessons with video, powerpoint, multimedia, etc.
+3. Homework - Create extra activities for students to do as homework. Do their own research. Have them write a post or share info based on what they are learning...like an essay. 
+4. User-generate Content - Have students give back to the community to pass the course. More content for the blog. User-generated content. Have them add their own resources.
+5. Quizzes/Tests - A way to add quizzes and tests online. 
+6. Student Social Network - Facebookish style where students can post update and information and share resources in groups. Create updates on their progress...and connect in with the habit creator and other tools. 
+7. Grade Book - Keep track of students grades. Provide certificates. Etc. A course students can work though, interact with teacher, and graduate. Have a special section for honor students and teachers who are really active. 
+
+### E-commerce
+
+It would be important to have a way to allow teachers to monetize their work. Offer them a way to sell their products. Maybe even allow them to franchise their courses so that other teachers can teach them and they make a commission. Keep competition centralized...and partner up to get the word out. 
+
+1. Shopping Cart - Provide a centralized system for selling products Evantoish style. Teachers create content, lessons, course, write a book, etc. Then sell it easy. Connect paypal. Slice off the top (25% if it's our visitor. Only $1 + 5% fee if it's already their student. 
+2. Mobile - Allow teachers to sell their stuff anywhere Ecwidish style. Sell on their Facebook, their website, etc...but still have access to the ease of the system. 
+3. Subscriptions - Allow monthly ongoing sales to lessons and courses in different formats. PLF/Evergreen/Freemium/FTM/etc
+
+### Analytics
+
+Then we could tie the whole system together with a dashboard that allows users to see what they want to track with analytics to see how they are doing. 
+
+1. Writing - How many words they've written. Competition with others...private, published posts, novels, etc. Amount of time, Amount of words, speed completed, words per minute, etc. 
+2. Links - See where their links are going...see what links are clicked on, [Keyword Bloodhoundish]. See where links are coming from. 
+3. Search - See what search words are attracting visitors. Keeping track of big data and what to write next. Create new posts to write and push into project for writers. 
+4. Visitors - Basics, how many, what pages, bouncing, etc. 
+5. Goals - Track users use...subscribers, customers, clients, etc. 
+
+### Social Network / Administration
+
+Then of course...after having all of this with online and offline apps...it would all be tied together with a nice CRM to follow-up on the users to maximize network potential and growth. Be the facebook of productivity for writers and teachers and students. 
+
+It would be nice to use APIs as much as possible...instead of reinventing the wheel for everything to take advantage of things that are already available. 
+
+It would be nice to tie into a CMS like wordpress. It would all have to be tied into an interface somehow. Maybe an overarching plugin with the core features...and then plugins to extend the core features of the plugin. 
+
+Curious as to anyone's feedaback. It would definitely be interesting to hear from other writers and programmers...looking for an integrated productivity system. 
+
+Leave your comments below and share your ideas.***END OF FILE***### Monetization 
+
+First of all this would be the perfect software system for me. I'd create what I want and test to see what works to improve the system. I'd use it to write lots of stories and novels English lessons for my English students. Then I'd use it to help other teachers and let them collaborate with me and each other...as well as sell their own products. Monetization from students and teachers. Then we could roll out the productivity part to other teachers and writers and users in general. Be a small pub. Not necessarily shooting to be a disco...just a local pub of very specific targeted users. We could offer freemium access with free features...but then payment for basic upgrades depending what they wanted to add. We could also charge for hosting to set up the system for others with pro-site on blogs. Or even sell the plugins for others. Or mabye not...just use it for my own personal user. Grow and buy out other companies. Go public and make billions.
