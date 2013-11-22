@@ -1,4 +1,4 @@
-## 61 Ideas So Far
+﻿## 61 Ideas So Far
 
 * Ler Livros
 * Ler O Dicionário
@@ -69,7 +69,13 @@ Ouça músicas em inglês e anote palaras que não conhece
 Converse com alguém em inglês
 Participe numa Sala de bate-papo
 Imagine uma conversa com alguém e aprende as palavras que não conhece
-Converse com um robô online***END OF FILE**** Ler Livros
+Converse com um robô online
+
+
+***END OF FILE**** 
+
+
+Ler Livros
 * Ler O Dicionário
 * Ler O Thesaurus
 * Brincar com jogos de palavras
